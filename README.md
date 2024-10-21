@@ -13,7 +13,7 @@
  
  🌱 I’m currently learning **Python and Machine Learing**
 
-💬 Ask me about **Next.js, React, React Native... or anything [here](https://github.com/salesp07/lakivr3/issues)**
+💬 Ask me about **Next.js, React, React Native... or anything [here](https://github.com/lakivr3/lakivr3/issues)**
 
 ⚡ Fun fact **No one can take away your knowledge**
 
