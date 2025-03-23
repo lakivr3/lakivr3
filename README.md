@@ -11,7 +11,7 @@
 <div align="center">
  
  
- 🌱 I’m currently learning **Python and Machine Learing**
+ 🌱 I’m currently learning **Node**
 
 💬 Ask me about **Next.js, React, React Native... or anything [here](https://github.com/lakivr3/lakivr3/issues)**
 
